@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @azhongisme
-- 👀 I’m interested in c++
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhongisme)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhongisme)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhongisme)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azhongisme)
 
 <!---
 azhongisme/azhongisme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
